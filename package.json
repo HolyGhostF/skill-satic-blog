@@ -1,0 +1,24 @@
+{
+  "name": "anqila-skill-static",
+  "version": "1.0.1",
+  "description": "anqila skill dtatic file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HolyGhostF/skill-satic-blog.git"
+  },
+  "keywords": [
+    "static",
+    "file",
+    "skill"
+  ],
+  "author": "anqila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HolyGhostF/skill-satic-blog/issues"
+  },
+  "homepage": "https://github.com/HolyGhostF/skill-satic-blog#readme"
+}
