@@ -1,6 +1,6 @@
 {
   "name": "anqila-skill-static",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "anqila skill dtatic file",
   "main": "index.js",
   "scripts": {
